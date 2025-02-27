@@ -446,7 +446,7 @@ $(function() {
 	
 
 	<!-- Place this script at the end of the body tag -->
-<script>
+
   var form = document.getElementById("my-form");
   
   async function handleSubmit(event) {
@@ -477,7 +477,7 @@ $(function() {
     });
   }
   form.addEventListener("submit", handleSubmit)
-</script>
+
 	
 
 	
